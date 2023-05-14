@@ -1,4 +1,4 @@
-# Collections of Lus Script to be used with CommandPost
+# Collections of Lua Script to be used with CommandPost
 
 - [export-images](./export-images/)
 - [export-youtube-marker](./export-youtube-marker)
