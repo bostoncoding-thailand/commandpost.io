@@ -45,6 +45,6 @@ Copy and paste this script into CommandPost Script
 
 - Execute the script which it will ask for the input file.
 
-![image](.img/image4.png)
+![image](./img/image4.png)
 
 - Wait until it finish the process. (Please don't move around the mouse cursor at this moment)
