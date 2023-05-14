@@ -18,7 +18,11 @@ elapsed time: 00:03:28    text: Chuck Norris join the channel
 
 - Then automatically create markers on the selected file in `Final Cut Pro` browser.
 
-![prefill_tags_in_browser](./img/prefill_tags_in_browser.mov)
+
+
+
+https://github.com/bostoncoding-thailand/commandpost.io/assets/133562745/9095ae61-6cc8-4f49-92ae-d5af1c0f287e
+
 
 
 # Pre Requisite
